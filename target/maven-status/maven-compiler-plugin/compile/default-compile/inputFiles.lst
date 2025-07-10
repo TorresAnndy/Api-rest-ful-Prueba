@@ -1,0 +1,14 @@
+A:\Api-rest-ful-Prueba\src\main\java\model\Borrow.java
+A:\Api-rest-ful-Prueba\src\main\java\model\Issue.java
+A:\Api-rest-ful-Prueba\src\main\java\model\Librarian.java
+A:\Api-rest-ful-Prueba\src\main\java\model\Member.java
+A:\Api-rest-ful-Prueba\src\main\java\model\Person.java
+A:\Api-rest-ful-Prueba\src\main\java\model\Publication.java
+A:\Api-rest-ful-Prueba\src\main\java\model\resources\BorrowResource.java
+A:\Api-rest-ful-Prueba\src\main\java\model\resources\IssueResource.java
+A:\Api-rest-ful-Prueba\src\main\java\model\resources\LibrarianResource.java
+A:\Api-rest-ful-Prueba\src\main\java\model\resources\MemberResource.java
+A:\Api-rest-ful-Prueba\src\main\java\model\resources\PersonResource.java
+A:\Api-rest-ful-Prueba\src\main\java\model\resources\PublicationResource.java
+A:\Api-rest-ful-Prueba\src\main\java\model\resources\RestApplication.java
+A:\Api-rest-ful-Prueba\src\main\java\model\StatusPublication.java

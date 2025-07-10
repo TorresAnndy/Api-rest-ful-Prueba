@@ -1,0 +1,14 @@
+model\Librarian.class
+model\resources\PersonResource.class
+model\StatusPublication.class
+model\resources\RestApplication.class
+model\Issue.class
+model\Member.class
+model\Person.class
+model\resources\PublicationResource.class
+model\Publication.class
+model\resources\MemberResource.class
+model\resources\LibrarianResource.class
+model\resources\BorrowResource.class
+model\Borrow.class
+model\resources\IssueResource.class
